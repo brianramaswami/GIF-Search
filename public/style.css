@@ -1,0 +1,34 @@
+/* Title */
+.title{
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+.form{
+    margin-bottom: 20px;
+}
+
+
+.results-div{
+    margin-top: 20px;
+    border: 1px black;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+.reset{
+    width: 26%;
+    margin-left: 37%;
+}
+
+.item{
+    float: left;
+    padding: 10px;
+}
+
+.gif{
+    height: 300px;
+    width: 300px;
+    
+}
