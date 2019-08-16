@@ -77,3 +77,15 @@ h1{
   
   
 }
+
+@media screen and (max-width: 420px) { 
+    .results-div{
+      margin-left: 3%;
+      /* margin-right: 10%;
+      margin-right: screen;
+      left: 0%; */
+  
+  }
+    
+    
+  }
