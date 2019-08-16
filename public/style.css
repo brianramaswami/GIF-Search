@@ -21,10 +21,10 @@
 
 .results-div{
     margin-top: 20px;
-    border: 1px black;
     width: 80%;
     float: left;
-    margin-left: 10%;
+    margin-left: 20%;
+    margin-right: 10%;
 }
 
 .reset{
