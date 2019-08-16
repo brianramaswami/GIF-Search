@@ -8,6 +8,16 @@
     margin-bottom: 20px;
 }
 
+.gif-label{
+    position: relative;
+    margin-right: 15px;
+}
+
+.gif-submit{
+    position: relative;
+    margin-left: 15px;
+}
+
 
 .results-div{
     margin-top: 20px;
@@ -18,8 +28,8 @@
 }
 
 .reset{
-    width: 26%;
-    margin-left: 37%;
+    width: 28%;
+    margin-left: 36%;
 }
 
 .item{
